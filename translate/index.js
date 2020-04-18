@@ -1,6 +1,5 @@
 require('dotenv').config()
 
-
 module.exports = async function (context) {
     const res = context.res,
      fetch = require('node-fetch'),
