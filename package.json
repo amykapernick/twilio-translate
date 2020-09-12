@@ -13,7 +13,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "file-system": "^2.2.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.2",
     "twilio": "^3.39.5",
     "uuidv4": "^6.0.5"
